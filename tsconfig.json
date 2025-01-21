@@ -4,15 +4,15 @@
     "types": ["jest"],
     "baseUrl": "./src/",
     "paths": {
-      // "@assets/*": ["assets/*"],
+      "@assets/*": ["assets/*"],
       "@screens/*": ["screens/*"],
       "@navigation/*": ["navigation/*"],
-      // "@components/*": ["components/*"],
-      // "@styles/*": ["styles/*"],
-      // "@utils/*": ["utils/*"],
-      // "@services/*": ["services/*"],
-      // "@state/*": ["state/*"],
-      // "@hook/*": ["hook/*"],
+      "@components/*": ["components/*"],
+      "@styles/*": ["styles/*"],
+      "@utils/*": ["utils/*"],
+      "@services/*": ["services/*"],
+      "@state/*": ["state/*"],
+      "@hook/*": ["hook/*"],
     }
   }
 }
